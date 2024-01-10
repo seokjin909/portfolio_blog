@@ -1,7 +1,9 @@
+import Hero from "@/components/Hero";
+
 export default function Home() {
   return (
     <>
-    메인페이지
+    <Hero/>
     </>
   )
 }
